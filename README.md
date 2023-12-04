@@ -6,13 +6,16 @@
 ✨ Welcome to **HamiltonPDev** profile 
 ### System Engineer Student
 
+### What are you goint to find
+This is the place for my projects, learning path and contrivutions to the community. 
+Feel free to review, fork, star and issue any repository. Feedback is always welcome!
+
 --- 
 
 ## 🌎 You can catch me on:  
-- 🔗 [Instagram] ()
-- 🔗 [LinkedIn]()
-- 🔗 [X](@Hamilto49487531)
-
+- 🔗 [Instagram] (https://www.instagram.com/hamilton_posada/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamilton-posada-serna-931120143/)
+- 🔗 [X](https://twitter.com/Hamilto49487531)
 
 <!--
 **HamiltonPDev/HamiltonPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
