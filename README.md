@@ -1,4 +1,4 @@
-![Profile Cover](./Black Minimalist Corporate Professional Profile LinkedIn Banner.png)
+![Profile Cover](./cover3.png)
 
 ---
 
