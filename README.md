@@ -13,7 +13,7 @@ Feel free to review, fork, star and issue any repository. Feedback is always wel
 --- 
 
 ## 🌎 You can catch me on:  
-- 🔗 [Instagram] (https://www.instagram.com/hamilton_posada/)
+- 🔗 [Instagram](https://www.instagram.com/hamilton_posada/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamilton-posada-serna-931120143/)
 - 🔗 [X](https://twitter.com/Hamilto49487531)
 
