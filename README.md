@@ -7,7 +7,7 @@
 
 ### What are you goint to find
 This is the place for my projects, learning path and contrivutions to the community. 
-Feel free to review, fork, star and issue any repository. Feedback is always welcome!
+Feel free to review, fork, star and issue any repository. Feedback is always welcome! 🇨🇴 🇳🇱 🇪🇸 🇰🇷
 
 --- 
 
