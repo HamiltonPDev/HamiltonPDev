@@ -1,4 +1,4 @@
-![Profile Cover](link-to-your-image)
+![Profile Cover](./cover.png)
 
 ---
 
