@@ -1,4 +1,4 @@
-![Profile Cover](./cover3.png)
+![Profile Cover](./LinkedIn.png)
 
 ---
 
