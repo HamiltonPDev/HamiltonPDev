@@ -57,7 +57,7 @@
 
 I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for architecture-first planning, **multi-model routing** (Opus / Sonnet / Haiku) for cost-aware execution, **Engram** for persistent memory across sessions. Runner: Claude Code / OpenCode. Migrating to **[Pi](https://pi.dev)** + **gentle-pi**.
 
-> _Medior-architect discipline at founder-engineer speed._
+> _Senior-architect discipline at founder-engineer speed._
 
 ---
 
@@ -65,15 +65,8 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,supabase,prisma,postgres,nodejs,hono,flutter,vercel,cloudflare,stripe,git&theme=dark&perline=14" />
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,supabase,prisma,postgres,nodejs,hono,flutter,vercel,cloudflare,stripe,git&theme=light&perline=14" alt="tech stack" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,docker,linux,figma,vim,bash,vscode,github&theme=dark&perline=14" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,docker,linux,figma,vim,bash,vscode,github&theme=light&perline=14" alt="tooling" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=light&perline=12" alt="tech stack" />
   </picture>
 </p>
 
