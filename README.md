@@ -6,9 +6,12 @@
      github-readme-activity-graph (minimal) · komarev views counter
    ─────────────────────────────────────────────────────────────────────────────-->
 
-<!-- ── Header (solid slate navy, soft edges — minimal, no wave) ─────────────── -->
+<!-- ── Signature header (Allura cursive, slate navy on GitHub bg) ───────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=180&section=header&text=Hamilton%20Posada&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Founder%20·%20Engineer%20·%20Amsterdam&descSize=17&descAlignY=66&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Allura&weight=400&size=130&duration=1500&pause=999999&color=0f172a&center=true&vCenter=true&width=720&height=170&lines=Hamilton+P" alt="Hamilton P" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&letterSpacing=4&duration=1500&pause=999999&color=475569&center=true&vCenter=true&width=520&height=32&lines=FOUNDER+%C2%B7+ENGINEER+%C2%B7+AMSTERDAM" alt="Founder · Engineer · Amsterdam" />
 </p>
 
 <!-- ── Animated typing tagline (slate navy, IBM Plex Mono) ──────────────────── -->
