@@ -9,20 +9,17 @@
 
 <!-- ── Signature header (Allura, dual-mode) ────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Allura&weight=400&size=130&duration=1500&pause=999999&color=0f172a&center=true&vCenter=true&width=720&height=170&lines=Hamilton+P#gh-light-mode-only" alt="Hamilton P" />
   <img src="https://readme-typing-svg.demolab.com?font=Allura&weight=400&size=130&duration=1500&pause=999999&color=f1f5f9&center=true&vCenter=true&width=720&height=170&lines=Hamilton+P#gh-dark-mode-only" alt="Hamilton P" />
 </p>
 
 <!-- ── Subtitle (IBM Plex Mono, tracked-out, dual-mode) ────────────────────── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&letterSpacing=4&duration=1500&pause=999999&color=475569&center=true&vCenter=true&width=520&height=32&lines=FOUNDER+%C2%B7+ENGINEER+%C2%B7+AMSTERDAM#gh-light-mode-only" alt="Founder · Engineer · Amsterdam" />
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&letterSpacing=4&duration=1500&pause=999999&color=94a3b8&center=true&vCenter=true&width=520&height=32&lines=FOUNDER+%C2%B7+ENGINEER+%C2%B7+AMSTERDAM#gh-dark-mode-only" alt="Founder · Engineer · Amsterdam" />
 </p>
 
 <!-- ── Animated typing tagline (dual-mode) ─────────────────────────────────── -->
 <p align="center">
   <a href="https://github.com/HamiltonPDev">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3200&pause=900&color=0f172a&center=true&vCenter=true&multiline=false&width=720&lines=I+build+production+PropTech+for+real+clients.;Founder+of+HPS+PropTech+%26+Solutions+B.V.;Spec-Driven+Development+%2B+a+personal+agents+workflow.;Open+to+full-stack+roles+in+NL+%2F+EU.#gh-light-mode-only" alt="What I do" />
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3200&pause=900&color=e2e8f0&center=true&vCenter=true&multiline=false&width=720&lines=I+build+production+PropTech+for+real+clients.;Founder+of+HPS+PropTech+%26+Solutions+B.V.;Spec-Driven+Development+%2B+a+personal+agents+workflow.;Open+to+full-stack+roles+in+NL+%2F+EU.#gh-dark-mode-only" alt="What I do" />
   </a>
 </p>
