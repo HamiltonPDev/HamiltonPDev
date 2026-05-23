@@ -1,27 +1,31 @@
-![Profile Cover](./LinkedIn.png)
+# Hamilton Posada
+
+**Founder · Engineer · Amsterdam**
+
+I build production PropTech for real clients. Spec-Driven Development and a personal agents workflow at the core.
+
+[posadahamilton.com](https://posadahamilton.com) · [LinkedIn](https://linkedin.com/in/hamilton-posada-serna-931120143) · posadahamilton@gmail.com
 
 ---
 
-# ✨ Hi there, 👋 I'm Hamilton Posada!
-## System Engineer Student
+### What I'm building
 
-### What are you goint to find
-This is the place for my projects, learning path and contrivutions to the community. 
-Feel free to review, fork, star and issue any repository. Feedback is always welcome! 🇨🇴 🇳🇱 🇪🇸 🇰🇷
+→ **[Casa Brunelli](https://casa-brunelli.vercel.app)** · LIVE. Custom booking platform for a Tuscan villa. Saves the owner €11–15k/yr in OTA fees.
+→ **Sevilla PMS** · In build. Multi-tenant PMS for the Spanish rental market. Six apartments, twenty-four tenants — real portfolio, not a demo.
+→ **HPS-ai-hub** · In build. My personal agents workflow — SDD + multi-model routing + Engram persistent memory.
 
---- 
+### How I work
 
-## About Me
-- 🔭 I’m currently working on front-end development and design.
-- 🌱 I’m currently learning advanced server security.
-- 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [LinkedIn/HamiltonPosada](https://www.linkedin.com/in/hamilton-posada-serna-931120143/)
+I use **HPS-ai-hub**, my own agents workflow. Spec-Driven Development for architecture-first planning, multi-model routing (Opus / Sonnet / Haiku) for cost-aware execution, Engram for persistent memory across sessions. Runner: Claude Code / OpenCode. Migrating to [Pi](https://pi.dev) + gentle-pi.
 
-## Skills
-- 💻 HTML | CSS | JavaScript | React
-- 🔒 Server Security
-- 🛠️ UI/UX Design
+Senior-architect discipline at founder-engineer speed.
 
-## My Projects
-- [Project Name](GitHub repository link)
-- [Project Name](live project link)
+### Stack
+
+`Next.js` · `TypeScript` · `Supabase` · `Prisma` · `Hono` · `Flutter` · `Stripe SEPA` · `Vercel` · `Cloudflare` · `Tailwind` · `n8n`
+
+---
+
+Open to full-stack and PropTech roles in NL / EU. [Reach out](mailto:posadahamilton@gmail.com).
+
+![Hamilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamiltonPDev&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true)
