@@ -57,7 +57,7 @@
 
 I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for architecture-first planning, **multi-model routing** (Opus / Sonnet / Haiku) for cost-aware execution, **Engram** for persistent memory across sessions. Runner: Claude Code / OpenCode. Migrating to **[Pi](https://pi.dev)** + **gentle-pi**.
 
-> _Senior-architect discipline at founder-engineer speed._
+> _Medior-architect discipline at founder-engineer speed._
 
 ---
 
