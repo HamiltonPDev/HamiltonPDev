@@ -52,7 +52,7 @@
 
 I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for architecture-first planning, **multi-model routing** (Opus / Sonnet / Haiku) for cost-aware execution, **Engram** for persistent memory across sessions. Runner: Claude Code / OpenCode. Migrating to **[Pi](https://pi.dev)** + **gentle-pi**.
 
-> _Senior-architect discipline at founder-engineer speed._
+> _Medior-architect discipline at founder-engineer speed._
 
 ---
 
@@ -60,7 +60,6 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=light&perline=12&v=3#gh-light-mode-only" alt="tech stack" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=dark&perline=12&v=3#gh-dark-mode-only" alt="tech stack" />
 </p>
 
 ---
@@ -68,7 +67,6 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonPDev&hide_border=true&bg_color=ffffff&color=0f172a&line=1e293b&point=0f172a&area=true&area_color=f1f5f9&title_color=0f172a&custom_title=Contribution%20activity#gh-light-mode-only" alt="activity graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonPDev&hide_border=true&bg_color=0d1117&color=f1f5f9&line=94a3b8&point=f1f5f9&area=true&area_color=1e293b&title_color=f1f5f9&custom_title=Contribution%20activity#gh-dark-mode-only" alt="activity graph" />
 </p>
 
