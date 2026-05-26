@@ -36,7 +36,7 @@
 
 ### What I'm building
 
-→ **[Casa Brunelli](https://casa-brunelli.vercel.app)** · `LIVE` · Custom booking platform for a Tuscan villa. Saves the owner €11–15k/yr in OTA fees.
+→ **[Casa Brunelli](https://casa-brunelli.com)** · `LIVE` · Custom booking platform for a Tuscan villa. Saves the owner €11–15k/yr in OTA fees.
 &nbsp;&nbsp;&nbsp;&nbsp;_See the [case study](https://github.com/HamiltonPDev/casa-brunelli-case-study)._
 
 → **Sevilla PMS** · `In build` · Multi-tenant property management SaaS for the Spanish rental market. Six apartments, twenty-four tenants — real portfolio, not a demo.
