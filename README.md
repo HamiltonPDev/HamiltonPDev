@@ -9,20 +9,17 @@
 
 <!-- ── Signature header (Allura, dual-mode) ────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Allura&weight=400&size=130&duration=1500&pause=999999&color=0f172a&center=true&vCenter=true&width=720&height=170&lines=Hamilton+P#gh-light-mode-only" alt="Hamilton P" />
   <img src="https://readme-typing-svg.demolab.com?font=Allura&weight=400&size=130&duration=1500&pause=999999&color=f1f5f9&center=true&vCenter=true&width=720&height=170&lines=Hamilton+P#gh-dark-mode-only" alt="Hamilton P" />
 </p>
 
 <!-- ── Subtitle (IBM Plex Mono, tracked-out, dual-mode) ────────────────────── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&letterSpacing=4&duration=1500&pause=999999&color=475569&center=true&vCenter=true&width=520&height=32&lines=FOUNDER+%C2%B7+ENGINEER+%C2%B7+AMSTERDAM#gh-light-mode-only" alt="Founder · Engineer · Amsterdam" />
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&letterSpacing=4&duration=1500&pause=999999&color=94a3b8&center=true&vCenter=true&width=520&height=32&lines=FOUNDER+%C2%B7+ENGINEER+%C2%B7+AMSTERDAM#gh-dark-mode-only" alt="Founder · Engineer · Amsterdam" />
 </p>
 
 <!-- ── Animated typing tagline (dual-mode) ─────────────────────────────────── -->
 <p align="center">
   <a href="https://github.com/HamiltonPDev">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3200&pause=900&color=0f172a&center=true&vCenter=true&multiline=false&width=720&lines=I+build+production+PropTech+for+real+clients.;Founder+of+HPS+PropTech+%26+Solutions+B.V.;Spec-Driven+Development+%2B+a+personal+agents+workflow.;Open+to+full-stack+roles+in+NL+%2F+EU.#gh-light-mode-only" alt="What I do" />
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3200&pause=900&color=e2e8f0&center=true&vCenter=true&multiline=false&width=720&lines=I+build+production+PropTech+for+real+clients.;Founder+of+HPS+PropTech+%26+Solutions+B.V.;Spec-Driven+Development+%2B+a+personal+agents+workflow.;Open+to+full-stack+roles+in+NL+%2F+EU.#gh-dark-mode-only" alt="What I do" />
   </a>
 </p>
@@ -52,7 +49,7 @@
 
 I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for architecture-first planning, **multi-model routing** (Opus / Sonnet / Haiku) for cost-aware execution, **Engram** for persistent memory across sessions. Runner: Claude Code / OpenCode. Migrating to **[Pi](https://pi.dev)** + **gentle-pi**.
 
-> _Senior-architect discipline at founder-engineer speed._
+> _Junior-architect discipline at founder-engineer speed._
 
 ---
 
@@ -60,7 +57,6 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=light&perline=12&v=3#gh-light-mode-only" alt="tech stack" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,bun,hono,supabase,prisma,postgres,mongodb,flutter,dart,vercel,cloudflare,stripe,docker,figma,git,github,vim,vscode,bash,linux&theme=dark&perline=12&v=3#gh-dark-mode-only" alt="tech stack" />
 </p>
 
 ---
@@ -68,7 +64,6 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonPDev&hide_border=true&bg_color=ffffff&color=0f172a&line=1e293b&point=0f172a&area=true&area_color=f1f5f9&title_color=0f172a&custom_title=Contribution%20activity#gh-light-mode-only" alt="activity graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonPDev&hide_border=true&bg_color=0d1117&color=f1f5f9&line=94a3b8&point=f1f5f9&area=true&area_color=1e293b&title_color=f1f5f9&custom_title=Contribution%20activity#gh-dark-mode-only" alt="activity graph" />
 </p>
 
@@ -79,6 +74,6 @@ I use **HPS-ai-hub**, my own agents workflow. **Spec-Driven Development** for ar
 ---
 
 <p align="center">
-  <strong>Open to full-stack and PropTech roles in NL / EU.</strong><br/>
+  <strong>Open to full-stack and software development roles in NL / EU.</strong><br/>
   <a href="mailto:posadahamilton@gmail.com">posadahamilton@gmail.com</a> · <a href="https://posadahamilton.com">posadahamilton.com</a>
 </p>
